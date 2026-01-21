@@ -154,6 +154,6 @@ The app will run at:
 
 ## Author's:
 Mo Fahim Raj
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue)](https://www.linkedin.com/in/mo-fahim-raj-175b9b304/)
 [![GitHub](https://img.shields.io/badge/GitHub-Follow-black)](https://github.com/Fahimraj12)
 ![GitHub stars](https://img.shields.io/github/stars/Fahimraj12/fahimraj12?style=social)
