@@ -151,3 +151,6 @@ The app will run at:
 - Online payment integration
 - Backend API integration
 - Admin dashboard
+
+## Author's:
+Mo Fahim Raj
