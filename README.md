@@ -1,4 +1,4 @@
-# 🌿 GreenLeaf – Online Plant Store 
+# 🌿 GreenLeaf – Online Plant Store:
 
 GreenLeaf is a responsive e-commerce web application built using **React** and **Bootstrap**, designed for buying houseplants online.  
 The project demonstrates React fundamentals such as **components, routing, state management, props, and conditional rendering**.
